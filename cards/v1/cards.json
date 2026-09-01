@@ -1,0 +1,545 @@
+{
+  "version": "v1",
+  "cards": [
+    {
+      "assetId": "Card_Clubs_02",
+      "displayName": "Overspill",
+      "rarity": "Rare",
+      "suit": "Clubs",
+      "value": 2,
+      "sheet": "T_Card_Clubs_02",
+      "icon_small": "small/Card_Clubs_02.png",
+      "icon_large": "large/Card_Clubs_02.png"
+    },
+    {
+      "assetId": "Card_Clubs_03",
+      "displayName": "Echo",
+      "rarity": "Rare",
+      "suit": "Clubs",
+      "value": 3,
+      "sheet": "T_Card_Clubs_03",
+      "icon_small": "small/Card_Clubs_03.png",
+      "icon_large": "large/Card_Clubs_03.png"
+    },
+    {
+      "assetId": "Card_Clubs_04",
+      "displayName": "Swift Cast",
+      "rarity": "Rare",
+      "suit": "Clubs",
+      "value": 4,
+      "sheet": "T_Card_Clubs_04",
+      "icon_small": "small/Card_Clubs_04.png",
+      "icon_large": "large/Card_Clubs_04.png"
+    },
+    {
+      "assetId": "Card_Clubs_05",
+      "displayName": "Lingering Flame",
+      "rarity": "Rare",
+      "suit": "Clubs",
+      "value": 5,
+      "sheet": "T_Card_Clubs_05",
+      "icon_small": "small/Card_Clubs_05.png",
+      "icon_large": "large/Card_Clubs_05.png"
+    },
+    {
+      "assetId": "Card_Clubs_06",
+      "displayName": "No Shelter",
+      "rarity": "Rare",
+      "suit": "Clubs",
+      "value": 6,
+      "sheet": "T_Card_Clubs_06",
+      "icon_small": "small/Card_Clubs_06.png",
+      "icon_large": "large/Card_Clubs_06.png"
+    },
+    {
+      "assetId": "Card_Clubs_07",
+      "displayName": "Overload",
+      "rarity": "Epic",
+      "suit": "Clubs",
+      "value": 7,
+      "sheet": "T_Card_Clubs_07",
+      "icon_small": "small/Card_Clubs_07.png",
+      "icon_large": "large/Card_Clubs_07.png"
+    },
+    {
+      "assetId": "Card_Clubs_08",
+      "displayName": "Chain",
+      "rarity": "Epic",
+      "suit": "Clubs",
+      "value": 8,
+      "sheet": "T_Card_Clubs_08",
+      "icon_small": "small/Card_Clubs_08.png",
+      "icon_large": "large/Card_Clubs_08.png"
+    },
+    {
+      "assetId": "Card_Clubs_09",
+      "displayName": "Confluence",
+      "rarity": "Epic",
+      "suit": "Clubs",
+      "value": 9,
+      "sheet": "T_Card_Clubs_09",
+      "icon_small": "small/Card_Clubs_09.png",
+      "icon_large": "large/Card_Clubs_09.png"
+    },
+    {
+      "assetId": "Card_Clubs_10",
+      "displayName": "Leaden Seal",
+      "rarity": "Epic",
+      "suit": "Clubs",
+      "value": 10,
+      "sheet": "T_Card_Clubs_10",
+      "icon_small": "small/Card_Clubs_10.png",
+      "icon_large": "large/Card_Clubs_10.png"
+    },
+    {
+      "assetId": "Card_Clubs_11",
+      "displayName": "Doublecast",
+      "rarity": "Legendary",
+      "suit": "Clubs",
+      "value": 11,
+      "sheet": "T_Card_Clubs_11",
+      "icon_small": "small/Card_Clubs_11.png",
+      "icon_large": "large/Card_Clubs_11.png"
+    },
+    {
+      "assetId": "Card_Clubs_12",
+      "displayName": "Borrowed Time",
+      "rarity": "Legendary",
+      "suit": "Clubs",
+      "value": 12,
+      "sheet": "T_Card_Clubs_12",
+      "icon_small": "small/Card_Clubs_12.png",
+      "icon_large": "large/Card_Clubs_12.png"
+    },
+    {
+      "assetId": "Card_Clubs_13",
+      "displayName": "Blast Radius",
+      "rarity": "Mythic",
+      "suit": "Clubs",
+      "value": 13,
+      "sheet": "T_Card_Clubs_13",
+      "icon_small": "small/Card_Clubs_13.png",
+      "icon_large": "large/Card_Clubs_13.png"
+    },
+    {
+      "assetId": "Card_Clubs_14",
+      "displayName": "The Virtuous Word",
+      "rarity": "Mythic",
+      "suit": "Clubs",
+      "value": 14,
+      "sheet": "T_Card_Clubs_14",
+      "icon_small": "small/Card_Clubs_14.png",
+      "icon_large": "large/Card_Clubs_14.png"
+    },
+    {
+      "assetId": "Card_Diamonds_02",
+      "displayName": "Ricochet",
+      "rarity": "Rare",
+      "suit": "Diamonds",
+      "value": 2,
+      "sheet": "T_Card_Diamonds_02",
+      "icon_small": "small/Card_Diamonds_02.png",
+      "icon_large": "large/Card_Diamonds_02.png"
+    },
+    {
+      "assetId": "Card_Diamonds_03",
+      "displayName": "Opening Shot",
+      "rarity": "Rare",
+      "suit": "Diamonds",
+      "value": 3,
+      "sheet": "T_Card_Diamonds_03",
+      "icon_small": "small/Card_Diamonds_03.png",
+      "icon_large": "large/Card_Diamonds_03.png"
+    },
+    {
+      "assetId": "Card_Diamonds_04",
+      "displayName": "Steady Aim",
+      "rarity": "Rare",
+      "suit": "Diamonds",
+      "value": 4,
+      "sheet": "T_Card_Diamonds_04",
+      "icon_small": "small/Card_Diamonds_04.png",
+      "icon_large": "large/Card_Diamonds_04.png"
+    },
+    {
+      "assetId": "Card_Diamonds_05",
+      "displayName": "Volley",
+      "rarity": "Rare",
+      "suit": "Diamonds",
+      "value": 5,
+      "sheet": "T_Card_Diamonds_05",
+      "icon_small": "small/Card_Diamonds_05.png",
+      "icon_large": "large/Card_Diamonds_05.png"
+    },
+    {
+      "assetId": "Card_Diamonds_06",
+      "displayName": "Hunter's Mark",
+      "rarity": "Rare",
+      "suit": "Diamonds",
+      "value": 6,
+      "sheet": "T_Card_Diamonds_06",
+      "icon_small": "small/Card_Diamonds_06.png",
+      "icon_large": "large/Card_Diamonds_06.png"
+    },
+    {
+      "assetId": "Card_Diamonds_07",
+      "displayName": "Piercing",
+      "rarity": "Epic",
+      "suit": "Diamonds",
+      "value": 7,
+      "sheet": "T_Card_Diamonds_07",
+      "icon_small": "small/Card_Diamonds_07.png",
+      "icon_large": "large/Card_Diamonds_07.png"
+    },
+    {
+      "assetId": "Card_Diamonds_08",
+      "displayName": "Charged Shot",
+      "rarity": "Epic",
+      "suit": "Diamonds",
+      "value": 8,
+      "sheet": "T_Card_Diamonds_08",
+      "icon_small": "small/Card_Diamonds_08.png",
+      "icon_large": "large/Card_Diamonds_08.png"
+    },
+    {
+      "assetId": "Card_Diamonds_09",
+      "displayName": "Arrow Rain",
+      "rarity": "Epic",
+      "suit": "Diamonds",
+      "value": 9,
+      "sheet": "T_Card_Diamonds_09",
+      "icon_small": "small/Card_Diamonds_09.png",
+      "icon_large": "large/Card_Diamonds_09.png"
+    },
+    {
+      "assetId": "Card_Diamonds_10",
+      "displayName": "Quickdraw",
+      "rarity": "Epic",
+      "suit": "Diamonds",
+      "value": 10,
+      "sheet": "T_Card_Diamonds_10",
+      "icon_small": "small/Card_Diamonds_10.png",
+      "icon_large": "large/Card_Diamonds_10.png"
+    },
+    {
+      "assetId": "Card_Diamonds_11",
+      "displayName": "Weak Point",
+      "rarity": "Legendary",
+      "suit": "Diamonds",
+      "value": 11,
+      "sheet": "T_Card_Diamonds_11",
+      "icon_small": "small/Card_Diamonds_11.png",
+      "icon_large": "large/Card_Diamonds_11.png"
+    },
+    {
+      "assetId": "Card_Diamonds_12",
+      "displayName": "Cutpurse",
+      "rarity": "Legendary",
+      "suit": "Diamonds",
+      "value": 12,
+      "sheet": "T_Card_Diamonds_12",
+      "icon_small": "small/Card_Diamonds_12.png",
+      "icon_large": "large/Card_Diamonds_12.png"
+    },
+    {
+      "assetId": "Card_Diamonds_13",
+      "displayName": "Steel Rain",
+      "rarity": "Mythic",
+      "suit": "Diamonds",
+      "value": 13,
+      "sheet": "T_Card_Diamonds_13",
+      "icon_small": "small/Card_Diamonds_13.png",
+      "icon_large": "large/Card_Diamonds_13.png"
+    },
+    {
+      "assetId": "Card_Diamonds_14",
+      "displayName": "The Virtuous Aim",
+      "rarity": "Mythic",
+      "suit": "Diamonds",
+      "value": 14,
+      "sheet": "T_Card_Diamonds_14",
+      "icon_small": "small/Card_Diamonds_14.png",
+      "icon_large": "large/Card_Diamonds_14.png"
+    },
+    {
+      "assetId": "Card_Hearts_02",
+      "displayName": "Goddess's Blessing",
+      "rarity": "Rare",
+      "suit": "Hearts",
+      "value": 2,
+      "sheet": "T_Card_Hearts_02",
+      "icon_small": "small/Card_Hearts_02.png",
+      "icon_large": "large/Card_Hearts_02.png"
+    },
+    {
+      "assetId": "Card_Hearts_03",
+      "displayName": "Prayer Shield",
+      "rarity": "Rare",
+      "suit": "Hearts",
+      "value": 3,
+      "sheet": "T_Card_Hearts_03",
+      "icon_small": "small/Card_Hearts_03.png",
+      "icon_large": "large/Card_Hearts_03.png"
+    },
+    {
+      "assetId": "Card_Hearts_04",
+      "displayName": "Rear Guard",
+      "rarity": "Rare",
+      "suit": "Hearts",
+      "value": 4,
+      "sheet": "T_Card_Hearts_04",
+      "icon_small": "small/Card_Hearts_04.png",
+      "icon_large": "large/Card_Hearts_04.png"
+    },
+    {
+      "assetId": "Card_Hearts_05",
+      "displayName": "Second Wind",
+      "rarity": "Rare",
+      "suit": "Hearts",
+      "value": 5,
+      "sheet": "T_Card_Hearts_05",
+      "icon_small": "small/Card_Hearts_05.png",
+      "icon_large": "large/Card_Hearts_05.png"
+    },
+    {
+      "assetId": "Card_Hearts_06",
+      "displayName": "Swap Step",
+      "rarity": "Rare",
+      "suit": "Hearts",
+      "value": 6,
+      "sheet": "T_Card_Hearts_06",
+      "icon_small": "small/Card_Hearts_06.png",
+      "icon_large": "large/Card_Hearts_06.png"
+    },
+    {
+      "assetId": "Card_Hearts_07",
+      "displayName": "Perfect Dodge",
+      "rarity": "Epic",
+      "suit": "Hearts",
+      "value": 7,
+      "sheet": "T_Card_Hearts_07",
+      "icon_small": "small/Card_Hearts_07.png",
+      "icon_large": "large/Card_Hearts_07.png"
+    },
+    {
+      "assetId": "Card_Hearts_08",
+      "displayName": "Bond",
+      "rarity": "Epic",
+      "suit": "Hearts",
+      "value": 8,
+      "sheet": "T_Card_Hearts_08",
+      "icon_small": "small/Card_Hearts_08.png",
+      "icon_large": "large/Card_Hearts_08.png"
+    },
+    {
+      "assetId": "Card_Hearts_09",
+      "displayName": "Mourning",
+      "rarity": "Epic",
+      "suit": "Hearts",
+      "value": 9,
+      "sheet": "T_Card_Hearts_09",
+      "icon_small": "small/Card_Hearts_09.png",
+      "icon_large": "large/Card_Hearts_09.png"
+    },
+    {
+      "assetId": "Card_Hearts_10",
+      "displayName": "Stubborn Heart",
+      "rarity": "Epic",
+      "suit": "Hearts",
+      "value": 10,
+      "sheet": "T_Card_Hearts_10",
+      "icon_small": "small/Card_Hearts_10.png",
+      "icon_large": "large/Card_Hearts_10.png"
+    },
+    {
+      "assetId": "Card_Hearts_11",
+      "displayName": "Hallowed Ground",
+      "rarity": "Legendary",
+      "suit": "Hearts",
+      "value": 11,
+      "sheet": "T_Card_Hearts_11",
+      "icon_small": "small/Card_Hearts_11.png",
+      "icon_large": "large/Card_Hearts_11.png"
+    },
+    {
+      "assetId": "Card_Hearts_12",
+      "displayName": "Shared Chalice",
+      "rarity": "Legendary",
+      "suit": "Hearts",
+      "value": 12,
+      "sheet": "T_Card_Hearts_12",
+      "icon_small": "small/Card_Hearts_12.png",
+      "icon_large": "large/Card_Hearts_12.png"
+    },
+    {
+      "assetId": "Card_Hearts_13",
+      "displayName": "Eternal Vigil",
+      "rarity": "Mythic",
+      "suit": "Hearts",
+      "value": 13,
+      "sheet": "T_Card_Hearts_13",
+      "icon_small": "small/Card_Hearts_13.png",
+      "icon_large": "large/Card_Hearts_13.png"
+    },
+    {
+      "assetId": "Card_Hearts_14",
+      "displayName": "The Virtuous Blessing",
+      "rarity": "Mythic",
+      "suit": "Hearts",
+      "value": 14,
+      "sheet": "T_Card_Hearts_14",
+      "icon_small": "small/Card_Hearts_14.png",
+      "icon_large": "large/Card_Hearts_14.png"
+    },
+    {
+      "assetId": "Card_Joker_Black",
+      "displayName": "The Black Joker",
+      "rarity": "Legendary",
+      "suit": "Joker",
+      "value": 0,
+      "sheet": "T_Card_Joker_Black",
+      "icon_small": "small/Card_Joker_Black.png",
+      "icon_large": "large/Card_Joker_Black.png"
+    },
+    {
+      "assetId": "Card_Joker_White",
+      "displayName": "The White Joker",
+      "rarity": "Legendary",
+      "suit": "Joker",
+      "value": 0,
+      "sheet": "T_Card_Joker_White",
+      "icon_small": "small/Card_Joker_White.png",
+      "icon_large": "large/Card_Joker_White.png"
+    },
+    {
+      "assetId": "Card_Spades_02",
+      "displayName": "Wide Cut",
+      "rarity": "Rare",
+      "suit": "Spades",
+      "value": 2,
+      "sheet": "T_Card_Spades_02",
+      "icon_small": "small/Card_Spades_02.png",
+      "icon_large": "large/Card_Spades_02.png"
+    },
+    {
+      "assetId": "Card_Spades_03",
+      "displayName": "Bleeder",
+      "rarity": "Rare",
+      "suit": "Spades",
+      "value": 3,
+      "sheet": "T_Card_Spades_03",
+      "icon_small": "small/Card_Spades_03.png",
+      "icon_large": "large/Card_Spades_03.png"
+    },
+    {
+      "assetId": "Card_Spades_04",
+      "displayName": "Riposte",
+      "rarity": "Rare",
+      "suit": "Spades",
+      "value": 4,
+      "sheet": "T_Card_Spades_04",
+      "icon_small": "small/Card_Spades_04.png",
+      "icon_large": "large/Card_Spades_04.png"
+    },
+    {
+      "assetId": "Card_Spades_05",
+      "displayName": "First Blood",
+      "rarity": "Rare",
+      "suit": "Spades",
+      "value": 5,
+      "sheet": "T_Card_Spades_05",
+      "icon_small": "small/Card_Spades_05.png",
+      "icon_large": "large/Card_Spades_05.png"
+    },
+    {
+      "assetId": "Card_Spades_06",
+      "displayName": "Charging Step",
+      "rarity": "Rare",
+      "suit": "Spades",
+      "value": 6,
+      "sheet": "T_Card_Spades_06",
+      "icon_small": "small/Card_Spades_06.png",
+      "icon_large": "large/Card_Spades_06.png"
+    },
+    {
+      "assetId": "Card_Spades_07",
+      "displayName": "Twinstrike",
+      "rarity": "Epic",
+      "suit": "Spades",
+      "value": 7,
+      "sheet": "T_Card_Spades_07",
+      "icon_small": "small/Card_Spades_07.png",
+      "icon_large": "large/Card_Spades_07.png"
+    },
+    {
+      "assetId": "Card_Spades_08",
+      "displayName": "Sunder",
+      "rarity": "Epic",
+      "suit": "Spades",
+      "value": 8,
+      "sheet": "T_Card_Spades_08",
+      "icon_small": "small/Card_Spades_08.png",
+      "icon_large": "large/Card_Spades_08.png"
+    },
+    {
+      "assetId": "Card_Spades_09",
+      "displayName": "Shockwave",
+      "rarity": "Epic",
+      "suit": "Spades",
+      "value": 9,
+      "sheet": "T_Card_Spades_09",
+      "icon_small": "small/Card_Spades_09.png",
+      "icon_large": "large/Card_Spades_09.png"
+    },
+    {
+      "assetId": "Card_Spades_10",
+      "displayName": "Execute",
+      "rarity": "Epic",
+      "suit": "Spades",
+      "value": 10,
+      "sheet": "T_Card_Spades_10",
+      "icon_small": "small/Card_Spades_10.png",
+      "icon_large": "large/Card_Spades_10.png"
+    },
+    {
+      "assetId": "Card_Spades_11",
+      "displayName": "Rising Fury",
+      "rarity": "Legendary",
+      "suit": "Spades",
+      "value": 11,
+      "sheet": "T_Card_Spades_11",
+      "icon_small": "small/Card_Spades_11.png",
+      "icon_large": "large/Card_Spades_11.png"
+    },
+    {
+      "assetId": "Card_Spades_12",
+      "displayName": "Berserker",
+      "rarity": "Legendary",
+      "suit": "Spades",
+      "value": 12,
+      "sheet": "T_Card_Spades_12",
+      "icon_small": "small/Card_Spades_12.png",
+      "icon_large": "large/Card_Spades_12.png"
+    },
+    {
+      "assetId": "Card_Spades_13",
+      "displayName": "Bladestorm",
+      "rarity": "Mythic",
+      "suit": "Spades",
+      "value": 13,
+      "sheet": "T_Card_Spades_13",
+      "icon_small": "small/Card_Spades_13.png",
+      "icon_large": "large/Card_Spades_13.png"
+    },
+    {
+      "assetId": "Card_Spades_14",
+      "displayName": "The Virtuous Edge",
+      "rarity": "Mythic",
+      "suit": "Spades",
+      "value": 14,
+      "sheet": "T_Card_Spades_14",
+      "icon_small": "small/Card_Spades_14.png",
+      "icon_large": "large/Card_Spades_14.png"
+    }
+  ]
+}
