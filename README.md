@@ -13,6 +13,8 @@ URL. It holds images and nothing else.
 | `cards/v1/large/` | 1024×1024 icons |
 | `cards/v1/cards.json` | id, name, suit, value and rarity |
 | `cards/v1/index.html` | contact sheet |
+| `items/v1/small/` | 200×200 equipment, token and envelope icons |
+| `items/v2/small/` | 200×200 redrawn equipment icons (SWD01 variants 64–127, on the diagonal) |
 
 ## Versioned folders
 
